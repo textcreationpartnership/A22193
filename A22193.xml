@@ -1,0 +1,891 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The description of heaven. Or, A diuine and comfortable discourse of the nature of the eternall heaven the habitation of God, and all the Elect. Composed in Latine, by Cunradus Aslachus. And conuerted into English, by Raph Iennings.</title>
+            <author>Aslakssøn, Cort, 1564-1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22193</idno>
+            <idno type="STC">STC 860</idno>
+            <idno type="STC">ESTC S113648</idno>
+            <idno type="EEBO-CITATION">99848879</idno>
+            <idno type="PROQUEST">99848879</idno>
+            <idno type="VID">13999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 614:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The description of heaven. Or, A diuine and comfortable discourse of the nature of the eternall heaven the habitation of God, and all the Elect. Composed in Latine, by Cunradus Aslachus. And conuerted into English, by Raph Iennings.</title>
+                  <author>Aslakssøn, Cort, 1564-1624.</author>
+                  <author>Jennings, Ralph.</author>
+               </titleStmt>
+               <extent>[4], 85, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A[ugustine] M[athewes] for Iohn Brambridge, and are to be sold at his shop neere Strand Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heaven --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:13999:1" rendition="simple:additions"/>
+            <pb facs="tcp:13999:1" rendition="simple:additions"/>
+            <p>THE DESCRIPTION OF HEAVEN. <hi>OR,</hi> A Diuine and Comfor<g ref="char:EOLhyphen"/>table Diſcourſe of the Nature of the Eternall HEAVEN, the Habitation of God, and <hi>all the Elect.</hi>
+            </p>
+            <p>Compoſed in Latine, by <hi>Cunradus Aſlachus.</hi>
+            </p>
+            <p>And Conuerted into Engliſh, by <hi>Raph Jennings.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>A. M.</hi> for <hi>Iohn Bramridge,</hi> and are to be ſold at his Shop neere Strand Bridge. 1623</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:13999:2"/>
+            <pb facs="tcp:13999:2"/>
+            <head>To the VVorthy and no leſſe ennobled by Ver<g ref="char:EOLhyphen"/>tue, then Deſcent, M<hi rend="sup">r</hi>. RI<g ref="char:EOLhyphen"/>CHARD LIGGINS, <hi>Gentleman.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE reade in the Goſpell (thrice Noble Sir) that the three ſage Vi<g ref="char:EOLhyphen"/>ſitors were guided vn<g ref="char:EOLhyphen"/>to Chriſt by a Star. No Sarre, but the ſtar-like luſter of your mani<g ref="char:EOLhyphen"/>fold Vertues hath conducted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee in this Dedication vnto you. Inge<g ref="char:EOLhyphen"/>nious Monuments are the beſt preſeruatiues of Fame, and the beſt Antidotes against obliuion, when d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>crepidn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and old Age ſets vp wrinckled and gray haires as the workes of their triumph; they can
+<pb facs="tcp:13999:3"/>adde and beſtow a life of a longer ex<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> and en<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ce; to which, the, <hi>Venutian,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tiriſt in his <hi>Sap<g ref="char:EOLhyphen"/>phicks</hi> aſtipulateth, where ſpea<g ref="char:EOLhyphen"/>king of the Honourable memoriall, imparted by a learned Pen, he ſayth</p>
+            <q>— <hi>et centum meliore * Signis munere donat.</hi>
+               <note place="margin">Statues.</note>
+            </q>
+            <p>I haue preſumed vpon your Pa<g ref="char:EOLhyphen"/>tronage, and am now a Suitor for pardon of my preſumption, requeſt<g ref="char:EOLhyphen"/>ing you to accept this ſlender trac<g ref="char:EOLhyphen"/>tate, that it may paſſe currant, as a Seale of the Seruice, and a testi<g ref="char:EOLhyphen"/>moniall of the dutifull Affection of</p>
+            <closer>
+               <signed>Your quotidian Orator, RALPH IENNINGS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:13999:3"/>
+            <head>A DISCOVRSE OF THE NATVRE of the Eternall HEAVEN, GODS Seat, and Ha<g ref="char:EOLhyphen"/>bitation.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <head type="sub">Wherin is declared the knowledge of this Eternall Heauen, to bee both delectable and neceſſarie vnto a Chriſtian.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F ſome men ſo affect the notion of far re<g ref="char:EOLhyphen"/>mote Nations, the view of wel fortified Townes, and ſtrong compacted Caſtles, and ſome to ſayle the
+<pb n="2" facs="tcp:13999:4"/>tempeſtuous ſeas, though with perill of their liues: who can ac<g ref="char:EOLhyphen"/>count the Heauenly world, and the ſacred Citie of <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>houahs</hi> ha<g ref="char:EOLhyphen"/>bitation, the moſt ſpatious man<g ref="char:EOLhyphen"/>ſions of the bleſſed Angels, and the moſt delectable Paradiſe of Gods Elect to bee vnworthy the notion, intelligence, or contemplation of a Chriſti<g ref="char:EOLhyphen"/>an; there is our true Coun<g ref="char:EOLhyphen"/>trey and home, whereunto we ſhall bee tranſported, and as into a newe Colony bee tran<g ref="char:EOLhyphen"/>ſlated, after the tedious pilgri<g ref="char:EOLhyphen"/>mage and peregrination of this our life is conſummate. Heere perpetuall ſhipwrack, exile, war, and all kind of calamities muſt be endured: But there is a quiet hauen, there is a Sanctuary, there is a ſtately citie, where we ſhall be ſecure from all hurt, and free from all encombrances.
+<pb n="3" facs="tcp:13999:4"/>There no more ſhall wee want the beams of the Sun, or Moon, or any other Starres, God him<g ref="char:EOLhyphen"/>ſelfe ſhining in his luſtre and in<g ref="char:EOLhyphen"/>finite glory, ſhall make vs gliſter with his admirable rayes: ſo that wee ſhall in ſplendor equa<g ref="char:EOLhyphen"/>lize the ſtarres: No more ſhall we there ſee in a glaſſe, nor rid<g ref="char:EOLhyphen"/>dle, but wee ſhall behold God face to face; there wee ioyntly commixe with them, both glad and ioyfull, we ſhall behold the bright companies of Angels; there ſhall wee view the radiant aſſemblies of ſacred Patriarkes, Prophets, and Apoſtles; there ſhall wee obſerue the infinite number of Crownes, of ioyfull and tryumphant Martyrs, and Saints; to conclude, here ſhal be no more ſorrow, wailings, trou<g ref="char:EOLhyphen"/>ble, wrath, or death; continually and in euery place perfect wiſ<g ref="char:EOLhyphen"/>dome
+<pb n="4" facs="tcp:13999:5"/>ſhal accompany vs, mirth, glory, beautie, and immortality. O happy and glorious compa<g ref="char:EOLhyphen"/>ny! O holy banquet! O deſire<g ref="char:EOLhyphen"/>able feaſts! where is no anxiety, where is wiſdome without ig<g ref="char:EOLhyphen"/>norance, memory without ob<g ref="char:EOLhyphen"/>liuion, vnderſtanding without errour, and reaſon reſplendent without darkneſſe: O bleſſed are they that dwell there, and ſing praiſes to God for euer.</p>
+               <p>Do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h it not, I pray, much con<g ref="char:EOLhyphen"/>cerne vs to know which it is, and what manner of Countrey it is, wherein wee euer hereafter ſhall liue with Chriſt and all the Saints, not one or two yeare but for all eternitie? I thinke there is none ſo ſottiſh in world<g ref="char:EOLhyphen"/>ly affaires, who if he were to de<g ref="char:EOLhyphen"/>part out of any one country in<g ref="char:EOLhyphen"/>to another, would not deſire to know before hand the manner,
+<pb n="5" facs="tcp:13999:5"/>temper, ſcituation, bounds, the nature and condition of the In<g ref="char:EOLhyphen"/>habitants of that place whither he is reſolued to remoue. And art thou, O man, ſo d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll and in<g ref="char:EOLhyphen"/>ſenſible in heauenly things, that albeit euery moment thou art a harneſſing and going to that e<g ref="char:EOLhyphen"/>uerlaſting place, yet haſt not a deſire as trauellers vſe, to fore-conceiue the place? Attend what Gods word admoniſheth thee, <hi>Phil.</hi> 3.20. <hi>Our conuerſation is in heauen, from whence alſo wee expect our Sauiour the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord Ieſus</hi> And againe, <hi>If you then bee riſen with Chriſt, ſeeke thoſe things which are aboue, where Chriſt ſit<g ref="char:EOLhyphen"/>teth at the right hand of God. S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> your affections on things aboue, and not on things below on earth.</hi> Goe to then, whileſt we trauell in this mortall race, ſet wee all our ſtudy to learne &amp; foreknow
+<pb n="6" facs="tcp:13999:6"/>which it is, and what manner of immortall Countrey which we ſhall enioy for euer, and ponder wee with our ſelues ſeriouſly, with what wing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s wee once eleuated out of the ruinous priſon of this life, wee may take our flight to that Life e<g ref="char:EOLhyphen"/>ternall.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="7" facs="tcp:13999:6"/>
+               <head>CHAP. II.</head>
+               <head type="sub">That the Oracles of the Sacred Scriptures are the only meanes whereby we attaine vnto the no<g ref="char:EOLhyphen"/>tion of the higheſt Heauens.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell, now let vs view what helps there are which may eleuate vs vp vnto the top of this Heauen, that we may ſearch out and know the nature of it. Thou art too weake, and all thy wings are cut off wherwith thou wert wont to climbe vnto the Celeſtiall altitude; thy Geome<g ref="char:EOLhyphen"/>try and Arithmetique will not auaile thee, thy Perſpectiue skill will not profit, thy obſeruations will not helpe; and why ſo? the Heauen of heauers is not conteined by ſenſe, the originall of humane ſcience, nor ſubiect
+<pb n="8" facs="tcp:13999:7"/>to reaſon, as by ſecondarie meanes: nor is it graunted vnto vs to pierce into the knowledge hereof by the light of Nature. If you enquire of the Philo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>phers concerning it, it will bee to as much end, as if you ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke to a dead man. <hi>Plinie,</hi> the moſt painefull Incumbent in Natures ſecrets, was in deſpaire of euer knowing it, when hee ſaith, To ſearch out any locall place, be<g ref="char:EOLhyphen"/>yond, or aboue this viſible world, neither doth it appertain vnto the world, nor can any coniecture of mens minds con<g ref="char:EOLhyphen"/>ceive it. And <hi>Ariſtotle</hi> himſelfe the Prince of Philoſophers was inſcient of this Heauen, euen when he held, That there was no Body, no place without, of further then the Sideriall Skie. If you queſtion <hi>Cicoro</hi> of this Heauen, hee will ſend you to
+<pb n="9" facs="tcp:13999:7"/>the Milke white circle in <hi>Scipios</hi> Dreame of the Starry Heauen Others, will ſend you to the Fortunate Ilands, and to I know not what fields of <hi>Elyſeo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> and no wonder, when as the eye hath not ſeene, nor care heard, nor hath it entred into Mans heart, the things that God hath prepared for them that loue him. How then may we aſcend vnto the knowledge thereof? Loe, the holy Scriptures lead vnto it. Hence mayeſt thou learne in a copious manner, e<g ref="char:EOLhyphen"/>uen from Gods Word, as much as can bee knowen, and as much as concerneth thee to vnder<g ref="char:EOLhyphen"/>ſtand, concerning this great Myſterie. But thou ſhalt vnder ſtand euery circumſtance more fully, when thou ſhalt atriue thi<g ref="char:EOLhyphen"/>ther, and ſee God face to face. To ſhut vp all, now wee ſee
+<pb n="10" facs="tcp:13999:8"/>through a glaſſe darkely, then face to face; now knowe wee in part, then ſhall wee know, euen as wee are knowen. Let vs therefore for a while vſe the Glaſſe of the Scriptures, vn<g ref="char:EOLhyphen"/>till after this life, we may both ſee and enioy it in the perfection thereof.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="11" facs="tcp:13999:8"/>
+               <head>CHAP. III.</head>
+               <head type="sub">Wherein the diuers Names of this most ſupreame Heauen, are reci<g ref="char:EOLhyphen"/>ted and explayned.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Vt before wee relate further, what this Heauen is, it will bee worthy our labour to lay downe and weigh the ſe<g ref="char:EOLhyphen"/>uerall appellations thereunto at<g ref="char:EOLhyphen"/>tributed, in &amp; by the Scriptures; and of theſe ſome are proper, and ſome are aſſigned vnto it by a comparatiue ſimilitude there<g ref="char:EOLhyphen"/>of to other things. Of the firſt kind are theſe; <hi>The third heauen,</hi> 1. <hi>Cor.</hi> 12.2. <hi>And the heauen of hea<g ref="char:EOLhyphen"/>uens,</hi> 1. <hi>Kings</hi> 8.27. Firſt, it is no<g ref="char:EOLhyphen"/>minated the third heauen, in re<g ref="char:EOLhyphen"/>ſpect of the two inferiour and lower heauens, the ayerie and
+<pb n="12" facs="tcp:13999:9"/>ſtarry firmaments, aboue both which it is highly exalted, as is extant, <hi>Chap.</hi> 2. Next, it is named the heauen of heauens, in regard of the ſublimitie thereof; be<g ref="char:EOLhyphen"/>cauſe it is rayſed aboue all other Heauens, which is well extant in the Etymology of the word, as ſhall be further noted hereaf<g ref="char:EOLhyphen"/>ter; But after a figuratine ſpeech and after a ſimilitude drawne from lower things, it hath theſe names; Firſt, it is called a houſe, <hi>Iohn</hi> 14.1. alſo a dwelling place, <hi>Pſal.</hi> 2.4. and throne of God, <hi>Eſa.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.1. becauſe God doth more e<g ref="char:EOLhyphen"/>ſpecially dwell therein, as in his Court and prime Citie of reſi<g ref="char:EOLhyphen"/>dence. What then ſay you, can God who is infinite and immea<g ref="char:EOLhyphen"/>ſurable bee comprehended and incloſed in Heauen? By no means: for (as <hi>Salomon</hi> ſaith <hi>Be<g ref="char:EOLhyphen"/>hold, the heauen of heauens cannot
+<pb n="13" facs="tcp:13999:9"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ntaine thee, how much leſſe this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouſe that I haue builded,</hi> 1. <hi>Kings</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.27. and <hi>Dauid</hi> confeſſeth the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me when he ſaith, <hi>Whither ſhal <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>goe from thy ſpirit, or whither <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>all I flye from thy preſence? If I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſcend vp into heauen, loe thou art <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here, or into hell, thou art there al<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Pſal.</hi> 139.7, 8. The ſame thing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome meaſure was alſo know<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to the Philoſophers. <hi>lambi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s</hi> ſaith, He is preſent ſudden<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whereſoeuer it pleaſeth him, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> incorporeall ſubſiſtence hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing of force any where to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nder it; and much more the di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne nature cannot bee ſo detai<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by any circumſcripture of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lace, that it ſhould not bee e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery where. And <hi>Porphyrius</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eakes excellently to the ſame <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rpoſe, That that hath a body <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nes not whither it will, by a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>call condition and eſtate, for a
+<pb n="14" facs="tcp:13999:10"/>place ſtandes together with a heape. Nor againe is it with<g ref="char:EOLhyphen"/>held in corporeall bounds; for that which in ſome kind lyes in a heape, may bee forced into a narrow place, and may be a lo<g ref="char:EOLhyphen"/>call condition be changed: but what is compact and free from accumulatiue magnitude, this cannot bee contained of thoſe things which are accumulatiue, and exiſts from all locall mo<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Therefore God is not inclu<g ref="char:EOLhyphen"/>ded in any bound or place, but is wholly within and without all things, no where ſhut in or out; ſolely containing all things, yet contayned of none. Neither is hee therefore commixt in crea<g ref="char:EOLhyphen"/>ted ſubſtances; but he is wholly in euery thing, and yet wholly in himſelfe, as ſaith <hi>Inſtin Mar<g ref="char:EOLhyphen"/>tyr,</hi> which is more fully confir<g ref="char:EOLhyphen"/>med
+<pb n="15" facs="tcp:13999:10"/>and explayned in theſe words, <hi>Epist.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. <hi>Ad Dardanum;</hi> God is euery where wholly in himſelfe. How, euery where in himſelfe? Euery where, becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hee is abſent in no place, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>holly in himſelfe, becauſe he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not contayned in thoſe things <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which he is preſent, as if hee would not be without them. But that the Scripture often times <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttributeth vnto GOD, who is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>meaſurable Infinite, as it were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>finite habitation; as where it is ſayd, <hi>The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord hath prepared his Throne in the heauen, Pſal.</hi> 103.19. and <hi>hee ſitteth in the heauen, Pſal.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4. It is done for theſe cauſes e<g ref="char:EOLhyphen"/>ſpecially: Firſt, becauſe God hath made choyce of this high<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t heauen as his chiefe Seat and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gall throne for his Maieſtie; out of which notwithſtanding hee is preſent to all, ſees all, and
+<pb n="16" facs="tcp:13999:11"/>mightily and wiſely gouerneth all things; <hi>Who is like to the Lord our God, who dwelleth on high, and humbleth himſelfe to viewe the things that are in heauen, in earth, and in euery place, Pſalm.</hi> 113.5, 6. And hence it is, that wee pray not, Our Father which art euery where, albeit that bee true, but, Our Father which art in heauen. Secondly, becauſe God doeth without all meanes of temporal life, manifeſt in Heauen him<g ref="char:EOLhyphen"/>ſelfe, &amp; his eternall good things to the bleſſed ſocietie of Angels and men, and there doth affoord himſelfe more fully to be enioy<g ref="char:EOLhyphen"/>ed and knowne, yea there hee is all in all, 1. <hi>Cor</hi> 15.28. For exam<g ref="char:EOLhyphen"/>ple, The ſoule of man although it bee ſpread through the whole body, yet is ſayd chiefly to re<g ref="char:EOLhyphen"/>ſide in the braine, as in her prime receptacle; becauſe that ſitting
+<pb n="17" facs="tcp:13999:11"/>here as in her Palace, ſhee doth <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ect her ſpeciall functions, the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe and motion, to which the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>newes, arteries, and veynes are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruitours, and performe the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nction of Embaſſadours, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttendants, to the well orde<g ref="char:EOLhyphen"/>ring of all other parts of the bo<g ref="char:EOLhyphen"/>dy; in a like manner conceaue God, as of the mindes vniuerſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties: whence <hi>Auguſtine</hi> in his Queſtions of the Trinitie, If God bee in euery place totally, why is hee ſayd to dwell in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eauen more th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in the earth? Becauſe the knowledge of the Diuinitie is greater in the holy Angels, and in the Soules of the Saints, when they are with God in heauen, then being on the earth; for as in this mortall bo<g ref="char:EOLunhyphen"/>dy, ſome more vnderſtand the Diuinitie, ſome leſſe: ſo God is ſayd more to bee in heauen,
+<pb n="18" facs="tcp:13999:12"/>then in earth; becauſe there his ſubſtance is more fully vnder<g ref="char:EOLhyphen"/>ſtood of the heauenly Inhabi<g ref="char:EOLhyphen"/>tants, then of the earthly Regi<g ref="char:EOLhyphen"/>on. Laſtly, becauſe God would withdraw the mindes of his E<g ref="char:EOLhyphen"/>lect from the things of this life, and eleuate their minds and co<g ref="char:EOLhyphen"/>gitations vnto that Kingdome prepared for them from the be<g ref="char:EOLhyphen"/>ginning of the world, in which he now ſitteth at the right hand of Maieſtie, <hi>viz.</hi> God and man, continually making interceſſion for them to the Father: where<g ref="char:EOLhyphen"/>vpon, with good reaſon Saint <hi>Paul</hi> exhorteth vs, <hi>that we ſhould ſeeke after heauenly things, where Chriſt ſitteth at the right hand of God, Coloſs.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1, 2. And hence it is, that when Chriſt and all ho<g ref="char:EOLhyphen"/>ly ones pray, they lifted vp their hands towards heauen, becauſe there is the glorious dwelling
+<pb n="19" facs="tcp:13999:12"/>place of God. The other ap<g ref="char:EOLhyphen"/>pellation of the higheſt heauen, is Tropicall, and Heauen by a figuratiue ſpeech, is called Para<g ref="char:EOLhyphen"/>diſe; and this tearme is devi<g ref="char:EOLhyphen"/>ued from the Caldean word, <hi>Pardes,</hi> whence the Grecian de<g ref="char:EOLhyphen"/>riueth the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or Paradiſe, which properly ſigni<g ref="char:EOLhyphen"/>fieth a greene plot, an Orchard, or Garden, bearing fruit, or ſet with fruit-bearing trees, delec<g ref="char:EOLhyphen"/>table to man, as <hi>Cant.</hi> 4.12. a Pa<g ref="char:EOLhyphen"/>radiſe of Pomegranats; and in olde time the Grecians vſed to call thoſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which now the multitude call Fiſh-ponds: But more eſpecially Paradiſe doth ſignifie <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that moſt pleaſand Garden, wherein our firſt Parents were placed by God; in which Garden being planted by God in the Country of Eden, was a piece of ground
+<pb n="20" facs="tcp:13999:13"/>lying neere to <hi>Babylonia Stura<g ref="char:EOLhyphen"/>nitida,</hi> or rather <hi>Edenitida,</hi> not farre from <hi>Meſopotamia,</hi> wa<g ref="char:EOLhyphen"/>tred about with the Riuer Ti<g ref="char:EOLhyphen"/>gris, and other fruitfull Brooks; and heereupon is the name of paradiſe often vſed in relating the Heauen of the bleſſed, as <hi>Luke</hi> 23.43. <hi>This day ſhalt thou be with mee in Paradiſe:</hi> But that you ſhould not thinke that Chriſt ſpeaks here of the earth<g ref="char:EOLhyphen"/>ly Paradiſe, which long before was quite ruined, for that moſt wofull fall of our firſt parents, as Ieruſalem and Sion were, marke what Sain <hi>Paul</hi> ſheweth you. <hi>Hee was rapt vp into the third Heauen,</hi> which hee after calleth Paradiſe: whence may be gathered, that the Heauen of the bleſſed, and the heauenly Pa<g ref="char:EOLhyphen"/>radiſe were all one to him; and in this ſenſe it ſeemes to bee ta<g ref="char:EOLhyphen"/>ken
+<pb n="21" facs="tcp:13999:13"/>by that old King <hi>Zoroaſtres,</hi> he hauing ſome inſight into this Heauen, where he ſaith, Becauſe the Soule being the bright fire of the Father, and of an immor<g ref="char:EOLhyphen"/>tall ſubſiſtence, and the miſtreſſe of life, ſeekes Paradiſe. Third<g ref="char:EOLhyphen"/>ly, this Heauen by a Metaphor, is called <hi>Abrahams</hi> boſome: for as children returning home from their Schoole-taxes at night, are as it were cloſed in their fathers boſome: ſo we al<g ref="char:EOLhyphen"/>ſo, who in this life are the ſonns of <hi>Abraham,</hi> who is called the father of all beleeuers, are ga<g ref="char:EOLhyphen"/>thered together into a moſt ſe<g ref="char:EOLhyphen"/>cure Hauen, and as it were the boſome of <hi>Abraham;</hi> that is to ſay, into a place prouided for <hi>A<g ref="char:EOLhyphen"/>braham</hi> and his elect children, expecting that ful glory of bleſ<g ref="char:EOLhyphen"/>ſednes which will follow in the laſt day of Iudgement, in which
+<pb n="22" facs="tcp:13999:14"/>we ſhall be crowned in moſt ab<g ref="char:EOLhyphen"/>ſolute manner, with all ioy, glo<g ref="char:EOLhyphen"/>ry, and immortalitie after this lifes diſſolution. Moreouer, it is ſometime called the heauenly Ieruſalem, and the Citie of the liuing God, and Sion, the hea<g ref="char:EOLhyphen"/>uenly Canaan, and by other names of this kinde, conducing to the nature of this heauen of the bleſſed. But hauing ſuf<g ref="char:EOLhyphen"/>ficiently ſayd of the names, I haſte to the diſtinction, and definition.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="23" facs="tcp:13999:14"/>
+               <head>CHAP. IIII.</head>
+               <head type="sub">The Definition of the higheſt Hea<g ref="char:EOLhyphen"/>uen, and the Analyſis thereof.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Heauen of the Bleſſed, is the higheſt expanſion, the houſe of God, and of bleſ<g ref="char:EOLhyphen"/>ſed Angels and Men. All the numbers of this Definition are partly declared aboue; the reſt ſhall hereafter bee more at large explayned: which that we may doe, theſe ſixe things are briefly to be handled in a Methodicall order:</p>
+               <list>
+                  <item>1. <hi>Whether there be any Heauen of the Bleſſed?</hi>
+                  </item>
+                  <item>2. <hi>Whether it were created, or not?</hi>
+                  </item>
+                  <item>3. <hi>At what time it was created?</hi>
+                  </item>
+                  <item>4. <hi>Whether it bee Corporeall, or
+<pb n="24" facs="tcp:13999:15"/>Incorporeall?</hi>
+                  </item>
+                  <item>5. <hi>Where it is, and in what place?</hi>
+                  </item>
+                  <item>6. <hi>What kinde of Heauen it is, and how great?</hi>
+                  </item>
+               </list>
+               <p>Firſt, no man will doubt whe<g ref="char:EOLhyphen"/>ther there be any Heauen of the bleſſed or not: who hath been neuer ſo little conuerſant in the holy Scriptures; for there are ſo many teſtimonies thereof, that no man without great ſtupiditie and ſenſeleſneſſe can deny it, of which kind theſe are plaine, <hi>Pſa.</hi> 103.19. <hi>God hath prepared his Seat in the heauens, and his Kingdome is aboue all kingdomes. Pſal.</hi> 68.34. <hi>Hee ſitteth in the Heauen of Hea<g ref="char:EOLhyphen"/>uens. Pſal.</hi> 115.16. <hi>The Heauen of Heauens are the Lordes.</hi> And Chriſt himſelfe ſaith, <hi>Iohn</hi> 14.2. <hi>In my fathers houſe are many man<g ref="char:EOLhyphen"/>ſions. I goe to prouide you a place, and where I ſhall prouide you a
+<pb n="25" facs="tcp:13999:15"/>place, I will returne and take you <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h me, that you may alſo be where <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am; and that wee may carry our ſolues as free Denizens of heauen, from whence wee expect our Saui<g ref="char:EOLhyphen"/>our, Phil.</hi> 3.20. Hence then I re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e thoſe, who being damna<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly conceited, deny this heauen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the bleſſed. If the heauen of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e bleſſed be the Seat &amp; Houſe. If God, wherein hee dwelleth; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d if it bee the place in which Chriſt God and Man doeth a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de; and if it bee the Manſion <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce wherein we ſhall perpetu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly dwell with Chriſt, certain<g ref="char:EOLhyphen"/>ly it muſt neceſſarily follow to bee ſomething: but wee haue <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ooned the Maior by alleadge<g ref="char:EOLhyphen"/>ments both of Scriptures, and Authorities; therefore alſo the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>imor by infallible conſequence muſt follow.</p>
+               <p>Secondly, there is a very
+<pb n="26" facs="tcp:13999:16"/>great controuerſie amongſt ve<g ref="char:EOLhyphen"/>ry profound Schollers, whether this Heauen were created or not. Some ſay, it is a voyd, or intricate place, an emptie ſpace, euerlaſting, immeaſurable, ſpiri<g ref="char:EOLhyphen"/>tuall, and all ouer-ſpread with moſt radiant beames of the De<g ref="char:EOLhyphen"/>itie, and that it is a certaine im<g ref="char:EOLhyphen"/>menſe light, ſhining foorth of God himſelfe, in which God was from euerlaſting, according to that ſaying, 1. <hi>Tim.</hi> 6.15. <hi>God dwelleth in that light which can<g ref="char:EOLhyphen"/>not be approached.</hi> Of the ſame minde was <hi>Auguſtine, Stenchus,</hi> the Biſhop, and ſome others, as <hi>Zanchius</hi> relates in his firſt book and fourth Chapter, <hi>De Operib. Dei:</hi> But on the contrary, o<g ref="char:EOLhyphen"/>thers, and that more truly, haue thought, that this heauen was ſometime made by God, and they more correſpond to the
+<pb n="27" facs="tcp:13999:16"/>Scripture: for whatſoeuer is in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lature vncreate, it is needfull <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the ſame be infinite and im<g ref="char:EOLhyphen"/>meaſurable; for euery creature <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of a finite conſtitution, God <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ely is vnmeaſurable and infi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te. But who will call the hea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n immenſe or infinite as God him ſelfe? when the Scrip<g ref="char:EOLhyphen"/>ture makes an eloquent diffe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce betwixt God the maker of heauen and earth, and his <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t or throne, <hi>viz.</hi> the heauen, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>after more fully in the enſu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng Chapter ſhall appeare. Let them then confeſſe the Heauen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be made by him; and who is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> impudent that dare, contrary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the apparent truth of the Scriptures, deny the whole hea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n to be made by God? when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Porch, or prime entry in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Bible he may finde, <hi>Gene. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. In the beginning, God created
+<pb n="29" facs="tcp:13999:17"/>the Heauen, and the Earth.</hi> Hea<g ref="char:EOLhyphen"/>uen in that place, euen in that tearme, comprehending in it the whole expanſion reſident aboue the earth, and in which the higheſt heauens is comprehen<g ref="char:EOLhyphen"/>ded, and muſt needs follow, that alſo to be formed of God in the beginning; yea and God alſo is nominated manifeſtly to be the former of this heauen. It is ſaid, <hi>Hebr</hi> 11.9, 10. <hi>By faith ſtayed A<g ref="char:EOLhyphen"/>braham as in a ſtrange land, in the land of promiſe, hee ſtayed in the Tabernacles with Iſaac and Iacob, coheyres in the ſame promiſe: for hee expected that ſure founded Ci<g ref="char:EOLhyphen"/>tie, whoſe former and maker was God.</hi> What Citie, I pray you, expected hee? Was it not the heauenly Hieruſalem, the hea<g ref="char:EOLhyphen"/>uen of the bleſſed, of the which the ſame <hi>Abraham</hi> afterwards intreats in <hi>Chap.</hi> 12.22. which
+<pb n="29" facs="tcp:13999:17"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one but the King of all Kings God himſelfe, hath founded <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d builded moſt artificially. It <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hooueth thee then to confeſſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd credit this Heauen celeſtiall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ometime to be builded by God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imſelfe, and him onely.</p>
+               <p>Thirdly, it cannot eaſily bee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ollected out of the holy Scrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>res, when this heauen was cre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted, but it is probable, on the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s;t day, together with the Star<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Firmament, ſince there is no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntion of the creation there<g ref="char:EOLhyphen"/>of in the workes of the other dayes: of which mind are ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y both ancient, and later W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers. <hi>Lactant. Lib.</hi> 2. <hi>diu. inſt. ca.</hi> 1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irſt of all, God made heauen, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd founded it on high, becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould bee the ſeate of God himſelfe the Builder, and then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee framed the earth, and ſet it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>der heauen, which man and
+<pb n="30" facs="tcp:13999:18"/>all kinds of beaſts ſhould inha<g ref="char:EOLhyphen"/>bite. And <hi>Danaus</hi> on the <hi>Phi<g ref="char:EOLhyphen"/>ſiques, Tract.</hi> 4. <hi>cap.</hi> 12. The high<g ref="char:EOLhyphen"/>eſt heauen was made on the firſt day; but it conſiſteth not on the two Elements, but of a certaine third more ſimple Eſſence. And here for our breuitie ſake in an apparent cauſe, ceaſe I to induce any more teſtimonies at all to prooue it.</p>
+               <p>Fourthly, we are now to con<g ref="char:EOLhyphen"/>ſider, whether this heauen be of a Corporeall, or Incorporeall ſubſtance and nature, locall, or voyd of place totally. Wee af<g ref="char:EOLhyphen"/>firme it to be corporeall, ſince a corporeall nature cannot ſub<g ref="char:EOLhyphen"/>ſiſt but in a corporeall ſubiect, and a proportion muſt needes exiſt betwixt the place, and the thing placed, <hi>Zanch. Lib.</hi> 1. <hi>cap.</hi> 4. <hi>Of the workes of God.</hi> The hu<g ref="char:EOLhyphen"/>mane nature of Chriſt, and of
+<pb n="31" facs="tcp:13999:18"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ery perſon elect, which muſt abide in this heauen, is of a cor<g ref="char:EOLhyphen"/>porall nature; it is neceſſary therefore the heauen ſo to bee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſo: for a body is contained in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> body. Therefore <hi>Actes</hi> 3. the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eauen is ſayd to containe in it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e body of Chriſt: but ſayeſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou, thoſe bodies are glorious <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſpirituall, as the Apoſtle ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oniſheth vs, when he ſaith, <hi>It is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en a liuing Body, but ſhall riſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gaine a ſpirituall,</hi> 1. <hi>Corint.</hi> 15.44. and therfore they haue no need of any corporall place. I an<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>were, Glorious bodies ceaſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot to be Phyſical and Natural, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t they ceaſe to be mortall and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orruptible; that is, they retaine <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd keepe their naturall and eſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tiall properties: and there<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore <hi>Iob</hi> ſaith, <hi>Chap.</hi> 19.20. The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne that I am, and no other <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ll I bee ſeene, and the ſame
+<pb n="32" facs="tcp:13999:19"/>eyes ſhall bee beheld alſo after that wormes haue eaten that body of mine, when I ariſe a<g ref="char:EOLhyphen"/>gaine, then I ſhall ſee God in my fleſh. But our bodies doe leaue off accidentall matters, as frail<g ref="char:EOLhyphen"/>ties, and ſundry paſſions; glory therefore is not a deſtroyer, but a perfecter of Nature, not anni<g ref="char:EOLhyphen"/>hilating, but exalting it. But whereas the Apoſtle ſaith, That the Body ſhall ariſe ſpirituall, that muſt not be vnderſtood of the ſubſtance, but of the quali<g ref="char:EOLhyphen"/>ties, namely, of the ſpirituall e<g ref="char:EOLhyphen"/>ſtate and condition of man af<g ref="char:EOLhyphen"/>ter the Reſurrection, which is plaine out of the very Text, where he ſaith, 1 <hi>Cor.</hi> 15.42, 43, 44. <hi>Our Body is ſomed in corruption, but is rayſed in glory, and incor<g ref="char:EOLhyphen"/>ruptible, it is ſowed baſe, but raiſed glorious, it is ſowed weake, but it is rayſed ſtrong, it is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s;owed mortall,
+<pb n="33" facs="tcp:13999:19"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it is rayſed ſpirituall.</hi> The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>he body ſhall ariſe, yet en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owed with certaine contrary qualities; for that which before <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s mortall, ſhall bee made im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortall; what was foule and diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nourable, ſhall bee made glo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious and bright; what was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eake, ſhall bee inueſted with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rueilous valour and egregi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s proweſſe; that that was be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ee ſubiect vnto diuers functi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns and paſſions, as Nouriſh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, Generation, Sleepe, Wea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſomneſſe, Diſeaſes, Griefes, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c. ſhall hereafter haue full im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unitie from all theſe. <hi>Paul</hi> therefore oppoſeth not two na<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>res, or bodies different, the Corporall and the Spiritual, but the various qualities of one and the ſame bodies amongſt them<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elues. Therefore ſince that the glorious bodies differ not from
+<pb n="34" facs="tcp:13999:20"/>the naturall, ſo farre as their ſubſtance, that is, their eſſentiall qualities ortiue; to wit, the man<g ref="char:EOLhyphen"/>ner and the forme: but in re<g ref="char:EOLhyphen"/>ſpect of ſome peculiar qualities, they bee not meerely ſpirits, but ſpirituall bodies, which cannot ſubſiſt or ſtand with a bodily place. And moreouer, the iudg<g ref="char:EOLhyphen"/>ment of all ancient and modern Writers concurre with this opi<g ref="char:EOLhyphen"/>nion, concerning the higheſt heauen; as <hi>Damaſcen li.</hi> 2. ſaith, That this heauen containeth all heauenly natures, God only ex<g ref="char:EOLhyphen"/>cepted: whereupon it muſt ne<g ref="char:EOLhyphen"/>ceſſarily bee a finite and corpo<g ref="char:EOLhyphen"/>reall ſubſtance. And <hi>Zanchius</hi> in his <hi>Lib.</hi> 1. <hi>Chap.</hi> 4. <hi>de Oper. Dei,</hi> ſaith, I call not that heauen of the bleſſed, a ſubſtance totally incorporeall, ſince that I per<g ref="char:EOLhyphen"/>ceiue it not to bee a ſpirituall thing, as are the ſoules and ſpi<g ref="char:EOLhyphen"/>rits
+<pb n="35" facs="tcp:13999:20"/>of Angels, for our bodies ſhall abide in it: but then ought there to be ſome proportion and conueniency betwixt the place, and the thing placed, which ve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly cannot bee betwixt a body placed, and a place meerely in<g ref="char:EOLhyphen"/>corporeall: nor doe I ſimply call it a corporall ſubſtance for difference ſake, &amp;c. I conceaue then this Heauen to bee ſuch a body, that it may be called ſpi<g ref="char:EOLhyphen"/>rituall. And ſo <hi>Danaeus:</hi> That higheſt heauen which was crea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed on the firſt day, is a moſt ex<g ref="char:EOLhyphen"/>cellent work of God, as no man will deny; and by and by, Al<g ref="char:EOLhyphen"/>though it was created with the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rth, yet it had matter ſeperate from it by Gods wonderfull power, and that not on the fifth, as <hi>Ariſtotle</hi> ſaith, but the thrid, euely differing in nature from the water, and the earth, not be<g ref="char:EOLhyphen"/>ing
+<pb n="36" facs="tcp:13999:21"/>ſubiect to thoſe mutations. Theſe things vnderſtood and graunted, one may eaſily con<g ref="char:EOLhyphen"/>ceaue, whether the heauen me<g ref="char:EOLhyphen"/>rit to be called locall, or illocall; for if it bee corporall, why is it not alſo nominated locall? It is therefore called, The place of the bleſſed, the Boſome of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and the Citie of ſuper<g ref="char:EOLhyphen"/>nall Ieruſalem: and if Hell be a place as it is ſaid, <hi>Luke</hi> 16.28. why alſo is not the place of the bleſ<g ref="char:EOLhyphen"/>ſed locall? But thou wilt ſay, <hi>Ariſtotle</hi> acknowledged no place beyond the Starry heauen, nor yet any body. Well, bee it ſo: but on the contrary, Chriſt af<g ref="char:EOLhyphen"/>firmes there to bee both place and bodies, when he ſaith, <hi>I ſhall goe and get you a place, and when I haue prouided it; I will come a<g ref="char:EOLhyphen"/>gaine and take you to mee, that where I am, there may yee be alſo,
+<pb n="37" facs="tcp:13999:21"/>Iohn</hi> 14.2. Now leaue I it to your choice, to giue credit to Chriſt, who is the truth comming forth of this ſupreame Heauen, or ra<g ref="char:EOLhyphen"/>ther to an <hi>Aristotelean Ethicke,</hi> prophane and ignorant of theſe myſteries.</p>
+               <p>Fiftly, but now where, and in what place this Heauen is, it is further to be conſidered of vs: Wee doe affirme, as the Scrip<g ref="char:EOLhyphen"/>tures euery where affirme alſo, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be exalted aboue both the other heauens fore mentioned: for in that very place is the hea<g ref="char:EOLhyphen"/>uen of the bleſſed Saints, where the feat and habitation of God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and where the bleſſed Angels haue reſidence with him; euen there the very Elect, together with the bleſſed Angels ioyntly enioy eternall life. For Chriſt him ſelfe queſtionleſſe nomina<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Paradiſe a place of the bleſ<g ref="char:EOLhyphen"/>ſed.
+<pb n="38" facs="tcp:13999:22"/>when he ſaith, <hi>This day ſhalt thou be with mee in Paradiſe;</hi> that is, as Saint <hi>Paul</hi> interprets it, in the third heauen; yea Chriſt af<g ref="char:EOLunhyphen"/>firmes, Hee hath in his Fathers houſe many manſions prepared for his holy ones. Then certain<g ref="char:EOLhyphen"/>ly, the Seat of God, and of the bleſſed ſocietie of Angels and men, is in the higheſt aboue both the other heauens: for, <hi>The hea<g ref="char:EOLhyphen"/>uen of heauens is the Lords, the earth hee aſsigned to the ſonnes of men,</hi> as the Pſalmiſt ſaith; this terme heauen of heauens, in the Hebrew phraſe ſignifieth, the moſt Sublime and Supreame Center, in like manner as theſe termes, God of Gods, Lord of Lords, and King of Kings, are accepted for the higheſt &amp; moſt eminent God, Lord, and King. This note is alſo the holy An<g ref="char:EOLhyphen"/>gels <hi>Halelluiah, Glory to God in
+<pb n="39" facs="tcp:13999:22"/>the higheſt, and peace on earth.</hi> Where he punctually diſtingui<g ref="char:EOLhyphen"/>ſheth betwixt the earth, and the Lords moſt holy manſions. And againe, in <hi>Deut.</hi> 4.39. <hi>God is aboue in Heauen:</hi> and <hi>Pſal.</hi> 113.4. <hi>Ieho<g ref="char:EOLhyphen"/>vah is eleuated farre aboue all Na<g ref="char:EOLhyphen"/>tions, aboue all Heauens is his glo<g ref="char:EOLhyphen"/>ry; who can equallize our God Ie<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nah, who inhabiteth in the high<g ref="char:EOLhyphen"/>eſt?</hi>
+               </p>
+               <p>Alſo the ſeate of Angels and bleſſed Saints, is ſaid to be in the ſame heauen; for the Angels continually ſee the face of the Father which is in heauen: and <hi>Paul</hi> ſayth, <hi>Our conuerſation is in heauen:</hi> In which heauen? In theſe he addeth, <hi>whence wee ex<g ref="char:EOLhyphen"/>pect our Sauiour, into which him<g ref="char:EOLhyphen"/>ſelfe is already aſcended.</hi> The hea<g ref="char:EOLhyphen"/>uen therefore of the bleſſed is planted by God farre aboue all other heauens in the higheſt al<g ref="char:EOLhyphen"/>titude.
+<pb n="40" facs="tcp:13999:23"/>Againe, hence it follow<g ref="char:EOLhyphen"/>eth, the heauen of the bleſſed to bee there, whither Chriſt him<g ref="char:EOLhyphen"/>ſelfe is aſcended in his owne bo<g ref="char:EOLhyphen"/>dy: for Chriſt hath made re<g ref="char:EOLhyphen"/>greſſe vnto his Father, whence he went out, whoſe ſeat is in the kingdome of the bleſſed, as is cleare in that of <hi>Iohn</hi> 7.33. <hi>Yet a little while am I with you, and af<g ref="char:EOLhyphen"/>ter retyre vnto him who ſent mee:</hi> and againe, <hi>Iohn</hi> 16.28. <hi>I went out from my Father into the world:</hi> and againe, <hi>I leaue the world, and retyre vnto my Father.</hi> And Chriſt is ſubſtantially aſcended aboue thoſe viſible heauens, to wit, the ayerie and ſtarry firma<g ref="char:EOLhyphen"/>ments, as <hi>Epheſ.</hi> 4.10. <hi>He that de<g ref="char:EOLhyphen"/>ſcended, is the ſame who aſcended aboue all heauens, that hee might accompliſh all things: Hebr.</hi> 4.14. hee is ſayd, <hi>to haue pierced the heauens:</hi> and <hi>Hebr.</hi> 7.26. <hi>hee is
+<pb n="41" facs="tcp:13999:23"/>exalted aboue all heauens:</hi> and a<g ref="char:EOLhyphen"/>gaine, <hi>Hebr.</hi> 1.3, 4. and <hi>Epheſ.</hi> 1.20. <hi>Hee is ſayd to ſit at the right hand of God in the higheſt Heauens:</hi> and as ſayth <hi>Auguſtine,</hi> Chriſt eleuated his body to heauen, he abſtracted not his Maieſtie yet from the earth, according to his corporall and carnall preſence, which the word aſſumed, hee is aſcended into the heauen, hee is not heere; there hee ſits at the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight hand of his Father, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t he is heere alſo, for his ma<g ref="char:EOLhyphen"/>ieſticall preſence retyred not. And <hi>Cyrill</hi> on <hi>Iohn</hi> is conſonant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eereto, No man doubts when Chirſt aſcended to the heauens, albeit he was heere by his virtu<g ref="char:EOLhyphen"/>all preſence of the ſpirit, hee is totally abſent in his carnall. A<g ref="char:EOLhyphen"/>gaine, it is requiſite, that the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aithfull beleeue, that though Chriſt is corporally abſent, yet
+<pb n="42" facs="tcp:13999:24"/>doth hee vertually gouerne vs and all things elſe, being conti<g ref="char:EOLhyphen"/>nually preſent with thoſe that call vpon his name. And in the ſame ſenſe is <hi>Vigill</hi> the Martyr; The Sonne of God (quoth he) according to his Humanitie, de<g ref="char:EOLhyphen"/>parted from vs, but according to his Diuinitie hee ſaith to vs, Loe, euen I am with you vnto the end of the world: for thoſe whom hee left, and from whom hee departed according to his Humanitie, according to his Di<g ref="char:EOLhyphen"/>uinitie, hee neither left nor for<g ref="char:EOLhyphen"/>ſooke: for in the forme of a ſeruant hee is in heauen abſent from vs; but in the forme of God, wherein hee departed not from vs, hee is preſent now on earth with vs. And this is the iudgement of the Ancient con<g ref="char:EOLhyphen"/>cerning Chriſt his peregrinati<g ref="char:EOLhyphen"/>on into the Heauen of the bleſ<g ref="char:EOLhyphen"/>ſed.
+<pb n="43" facs="tcp:13999:24"/>But as Saint <hi>Auguſtine</hi> ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oniſheth vs, It is a needleſſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouerlurious fantaſie to ſearch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here and how the Lord pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nce is ſeated in this moſt high <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace; onely wee are to beleeue <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to bee in heauen, for it is not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r our frailtie to diſcourſe of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>deſtiall ſecrets, but it rather <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cernes our faith to bee wiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odeſtly, concerning the digni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Lords preſence. It is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en cleare, that the heauen of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e bleſſed is the moſt high Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce of God and the bleſſed An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ls, placed and confirmed a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue the two other heauens, to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>it, the ayerie and Syderiall fir<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ments.</p>
+               <p>Sixtly, It remaines laſtly to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee ſurueyed, what and how <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eat this heauen is: In qualitie <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is moſt eternall incorruptible, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d cleare: I terme it eternall,
+<pb n="44" facs="tcp:13999:25"/>not becauſe it exiſted without beginning; but becauſe it is euer to endure without all end and decay. Whence that of <hi>Augu<g ref="char:EOLhyphen"/>ſtine,</hi> Hence then my ſoule ſeeth how farre it is eternall aboue all times, when thy houſe which cannot bee trauerſed ouer, though reſpectiue to thee it can<g ref="char:EOLhyphen"/>not be coeternall; yet vnceſſant<g ref="char:EOLhyphen"/>ly adhering to thee, it admits not the leaſt temporall inter<g ref="char:EOLhyphen"/>miſsion. And as <hi>Ambroſe, Paul</hi> (ſaith hee) exhorts vs to couet manſions in the higheſt hea<g ref="char:EOLhyphen"/>uens, which are eternall, but that is incorruptible which in that eternall time of her du<g ref="char:EOLhyphen"/>rance, hath an immunitie from all change and alteration, or the leaſt corruption. <hi>Paul</hi> therefore auerres, that heauenly Ieruſa<g ref="char:EOLhyphen"/>lem which <hi>Abraham</hi> expected to haue firme fundaments, that
+<pb n="45" facs="tcp:13999:25"/>is, moſt ſure and immo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ueable <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ounds; and (as in the <hi>Ap<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ps</hi>) that celeſt all Citie is made of pure gold, and eſtabliſhed on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> moſt firme and precious foun<g ref="char:EOLhyphen"/>dation, deſcribed alſo to be cor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>borate with inuincible walls; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which things, deſcribe and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otifie the perpetuitie and in<g ref="char:EOLhyphen"/>corruptible exiſtence of this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eauen. But their conceit is im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious and vaine, who conceyt this heauen to haue alſo reſided without beginning from eterni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>: If ſo bee that an eternall habitation muſt needs be reci<g ref="char:EOLhyphen"/>procall to an eternall God; alas, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord wants no place, ſince <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat his extent exceeds al place, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e being of a moſt ſimple eſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence, which is as well without <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> within all things, as <hi>Zanchlus</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the ancient Diuines affirme; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd moſt clearely is this Citie
+<pb n="46" facs="tcp:13999:26"/>celeſtiall, portraytured in the deſcription of the terrent Ieru<g ref="char:EOLhyphen"/>ſalem, <hi>Reuel.</hi> 21. <hi>ver.</hi> 23. There is want neither of Sun, or Moone, to yeeld luſtre therein; for Gods glory giueth it a plenary Illu<g ref="char:EOLhyphen"/>ſtration, namely, the heauenly Ieruſalem, whereof the Lambe is the Lampe; and as <hi>Augustine</hi> aptly ſaith, That moſt Emperi<g ref="char:EOLhyphen"/>all City is incomparably cleare, where are Victory, Verity, Dig<g ref="char:EOLhyphen"/>nitie, where are Sanctitie, Life, and Eternitie. Nor ſings <hi>Zan<g ref="char:EOLhyphen"/>chius</hi> any leſſe excellently of the ſplendor of this ſupernall Citie, That moſt ſupreame Heauen ſhall ſhine with a farre more ex<g ref="char:EOLhyphen"/>cellent light, it ſhall want no Sunne, nor Moone; for the glo<g ref="char:EOLhyphen"/>ry of God is the light thereof. Againe, nor muſt we ſuppoſe as ſome doe, the illuſtrious Sunne-beame of that eſſentiall glory
+<pb n="47" facs="tcp:13999:26"/>to reflect and iſſue from God, as from the Sunne, and heauen to be illuſtrate with it: for what<g ref="char:EOLhyphen"/>ſoeuer is in the eſſence of God, and demeanes therefrom, is par<g ref="char:EOLhyphen"/>ticipator, like as the Sonne and Holy Ghoſt, which proceed or<g ref="char:EOLhyphen"/>dinarily from the Father: and this ſole title is onely giuen vn<g ref="char:EOLhyphen"/>to Chriſt; namely, that he is the ſplendour of glory: that light therefore whereby the heauen is illuſtrate as from a cauſe effi<g ref="char:EOLhyphen"/>cient, and whereby the ſoules of the bleſſed are illuminate, that they may perceiue God is a cre<g ref="char:EOLhyphen"/>ated ſubiect, or matter.</p>
+               <p>But the quantitie of the ſu<g ref="char:EOLhyphen"/>preame Heauen is depiete vnder the figure of the holy Citie, as <hi>Apocal.</hi> 21.10. where it is called That great city; by which term<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> certainly, he inſtanceth the lati<g ref="char:EOLhyphen"/>tude thereof to be exceſſiue, the
+<pb n="48" facs="tcp:13999:27"/>magnitude both incomperable, and incomprehenſible; yet de<g ref="char:EOLhyphen"/>clares he it to be finite, when he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntimates it alſo poſſibly circun<g ref="char:EOLhyphen"/>date by the Angel: it is by <hi>Chriſt</hi> alſo verified to be a moſt large City, when hee affirmes it to haue very many habitations therein, euen in his Fathers houſe. But of the definition of the perpetuall Heauen, and the moſt excellent frame and fa<g ref="char:EOLhyphen"/>bricke thereof, this may ſuffice: Now view we the Sections flowing from hence.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="49" facs="tcp:13999:27"/>
+               <head>CHAP. V.</head>
+               <head type="sub">Wherein is diſprooued the opinion of thoſe who affirme, that the heauen of bleſſed ones is nothing but God himſelfe, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a celeſtiall ioy, or ſuppoſe that ioy d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffuſed through all things there.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>HE generation of er<g ref="char:EOLhyphen"/>rour is fruitfull, but of Trueth, nothing leſſe: This hath brought foorth infinit monſters of vices and prodigious opini<g ref="char:EOLhyphen"/>ons; the other receiueth not her owne iſſue. Let vs ſee then whe<g ref="char:EOLhyphen"/>ther it bee agre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able to truth which wee haue affirmed, That the heauen of bleſſed ones is the habitation of God, and all the Saints, that it is a place of ioy, and ſcituate aboue the o<g ref="char:EOLhyphen"/>ther
+<pb n="50" facs="tcp:13999:28"/>heauens; wil not thoſe pro<g ref="char:EOLhyphen"/>digeous dreams of ſome, ſoone languiſh, and vaniſh as ſmoke at Sunne-riſing, who ſuppoſe that the Heauen of bleſſed ones, is nothing but God himſelfe, or the ioy of the bleſſed, and ther<g ref="char:EOLhyphen"/>fore to be in no place, but euery whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e diffuſed in the heauen, in the ayre, in the earth, in hell? oh lamentable madneſſe! Doe not theſe ſacrilegious ones tremble, thus to confound the Creatour with the thing crea<g ref="char:EOLhyphen"/>ted? God is infinite and vncir<g ref="char:EOLhyphen"/>cumſcribed, but the heauen is finite and circumſcribed, as the place, ſeate, and throne of God, the Manſion of our heauenly Father, wherein Chriſt, the Angels, and all the elect, en<g ref="char:EOLhyphen"/>ioy eternall ioy: ſhall not then God bee one thing, and his Throne, heauen another? Hee
+<pb n="51" facs="tcp:13999:28"/>conteineth, and with his Maie<g ref="char:EOLhyphen"/>ſtie filleth all things, he cannot be conteyned and comprehen<g ref="char:EOLhyphen"/>ded by nothing. Whence I ga<g ref="char:EOLhyphen"/>ther this, GOD is infinite, but the Heauen of the bleſſed ones is finite; becauſe God be<g ref="char:EOLhyphen"/>ing infinite, cannot bee limit<g ref="char:EOLhyphen"/>ted according to that, 2. <hi>Kings</hi> 8.27. <hi>The Heauen of heauens can<g ref="char:EOLhyphen"/>not containe thee.</hi> Therefore God muſt bee one thing, and this Heauen another.</p>
+               <p>There is a monſtrous Opini<g ref="char:EOLhyphen"/>on like vnto this, which mayn<g ref="char:EOLhyphen"/>taineth, that the Heauen of bleſſed ones, is nothing but the ioy it ſelfe, wherewith the bleſſed after this life ſhall bee affected: but let thoſe ſee with what countenance they can confound theſe things, which the Scripture ſo euidently and apparantly doth diſtinguiſh be<g ref="char:EOLhyphen"/>tweene
+<pb n="52" facs="tcp:13999:29"/>themſelues, when it maketh a cleare difference be<g ref="char:EOLhyphen"/>tweene Heauen, or the place of bleſſed ones and bleſſedneſſe it ſelfe, ſaying, <hi>The righteous ſhall ſhine as the Sunne, in the Kingdome of their Father, Math</hi> 13.43.</p>
+               <p>Moreouer, the Kingdome of glory is one thing, and the glo<g ref="char:EOLhyphen"/>ry it ſelfe is another, where<g ref="char:EOLhyphen"/>with the righteous ſhall bee a<g ref="char:EOLhyphen"/>dorned. What? the kingdome of heauen ſhall bee one, and the ſame vnto all, as Chriſt ſaith, <hi>Iohn</hi> 17.24. <hi>Father, thoſe which thou haſt giuen mee, I will that where I am, they alſo bee with mee.</hi> And 1. <hi>Theſſal.</hi> 4.17 <hi>Wee ſhall bee caught vp in the Cloudes, to meere the Lord in the Ayre, and ſo wee ſhall al<g ref="char:EOLhyphen"/>wayes bee with the Lord.</hi> And, <hi>I will take you to my ſelfe, that
+<pb n="53" facs="tcp:13999:29"/>where I am, you may bee.</hi> But that Celeſtiall glory ſhall not bee one, and the ſame to all, but differenced by ſome de<g ref="char:EOLhyphen"/>grees: For one ſhall bee the glory of Chriſtes, as greater, another of Angels, another of Men, as the Apoſtle inſinua<g ref="char:EOLhyphen"/>teth, 1. <hi>Corinth.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.41, 42. when hee ſaith, <hi>One beautie of the Sunne, another of the Moone, another of the Starres: and ſo ſhall bee the Reſurrection of the dead.</hi> The ſame <hi>Daniel</hi> teach<g ref="char:EOLhyphen"/>eth, <hi>Chapter</hi> 12.3. when hee ſayeth, <hi>They which inſtruct o<g ref="char:EOLhyphen"/>thers, ſhall ſhine as the Splendor in the Firmament, and they that iustifie many, ſhall bee as the Starres for euer.</hi> Whence it is apparant, that the Kingdome or Manſion of the bleſſed, is one thing; but the glory it ſelfe another, which the Saints ſhall
+<pb n="54" facs="tcp:13999:30"/>enioy for euer.</p>
+               <p>Furthermore, the Heauen of the bleſſed, ſeeing it is erecte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and placed by God, in a moſt ſublime Seate aboue all other viſible heauens: How I pray you, can it exiſt at once in all places, as in the Heaven, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ayre, the Water, the Earth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp;c. Is not this contrary to the order of Nature, which doeth not admit two or more bodyes in one ſpace of the ſame place, without the penetration of their dimenſions, and the great confuſion of the thing? Nay, no naturall body can bee at once in many places. All which things, and farre more abſurd, will hee bee compelled to admit, who maintaineth, that the heauen of the bleſſed is euery where.</p>
+               <p>I pretermit heere infinite te<g ref="char:EOLhyphen"/>ſtimonies
+<pb n="55" facs="tcp:13999:30"/>of Scripture, which doe euidently teſtifie that this heauen is not euery where, but placed aboue the others. Ad<g ref="char:EOLhyphen"/>mit that it were ſo, how ſhould Chriſt deſcend there-hence in<g ref="char:EOLhyphen"/>to the loweſt parts of the earth? How is hee returned thither, by penetrating and paſ<g ref="char:EOLhyphen"/>ſing through all the other Hea<g ref="char:EOLhyphen"/>uens? For as much as he could not deſcend elſe where from thence, nor aſcend thither a<g ref="char:EOLhyphen"/>gaine, if hee perpetually liued in the ſame as diffuſed through all things. What difference al<g ref="char:EOLhyphen"/>ſo ſhould there bee betweene the abode of the ſaued, and damned, if this Heauen were dilated through all places. Now the Scripture affirmeth, that there is a great diſtance be<g ref="char:EOLhyphen"/>tweene the abode of the bleſ<g ref="char:EOLhyphen"/>ſed and tormented, when it
+<pb n="56" facs="tcp:13999:31"/>ſaith, <hi>Betweene vs</hi> (that is, wee which are in the place of the bleſſed) <hi>and you</hi> (which liue in hell, in the place of the tor<g ref="char:EOLhyphen"/>mented) <hi>there is a great Gulph placed, in ſo much that they who would paſſe from hence to you, cannot, nor from thence hither.</hi> Whereupon <hi>Hierome in</hi> 6. <hi>Ca<g ref="char:EOLhyphen"/>put. ad Epheſ.</hi> ſaith, It is an im<g ref="char:EOLhyphen"/>pious thing to affirme that the euill angels ſhould bee belee<g ref="char:EOLhyphen"/>ued, to enioy that heauen, of which God ſayeth, <hi>Heauen is my Throne.</hi> Whence it follow<g ref="char:EOLhyphen"/>eth, that this heauen is not eue<g ref="char:EOLhyphen"/>ry where, but placed aboue theſe viſible heauens.</p>
+               <p>But that which they are wont to obiect heere as vnanſwera<g ref="char:EOLhyphen"/>ble, is of no validitie if it be examined: <hi>God is euery where. God is in the Heauen of the bleſ<g ref="char:EOLhyphen"/>ſed: Therefore the Heauen of
+<pb n="57" facs="tcp:13999:31"/>the Bleſſed is euery where.</hi> It is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Paralogiſme labouring with the contagion of foure termes: For the Propoſition is vnder<g ref="char:EOLhyphen"/>ſtood of the generall preſence of God, by which hee is preſent to all his creatures: but the aſſumption is vnderſtood of the perfect exhibition of Gods glory, which is in the heauen of the bleſſed: and there is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore infer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed in the Conclu<g ref="char:EOLhyphen"/>ſion, then was in the Promi<g ref="char:EOLhyphen"/>ſes.</p>
+               <p>The like Argument may be if you ſay, <hi>God is euery where. God is in the earth: Therefore the earth is euery where.</hi> But they vige moreouer, that it is neceſſary, that the Celeſtiall habitation of God, wherein he is reſident, is as largely ſpaci<g ref="char:EOLhyphen"/>ous as God himſelfe, otherwiſe it could not be his Seat.</p>
+               <pb n="58" facs="tcp:13999:32"/>
+               <p>But I ſay, that the heauen of the bleſſed, after a certaine manner, is as largely ſpacious as God himſelfe, and is not ſo largely ſpacious: therefore God after a certaine manner, is in the heauen of the bleſſed onely; yet not onely there, but euery where: which allegati<g ref="char:EOLhyphen"/>ons conſidered in a diuers re<g ref="char:EOLhyphen"/>ſpect, admit no impietie. God is in the heauen of the bleſſed, and not euery where; ſo fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re foorth, as there onely he exhi<g ref="char:EOLhyphen"/>biteth, and without all mea<g ref="char:EOLhyphen"/>ſure imparteth his glory to the bleſſed Angels, and men, and demonſtrateth himſelfe to them face to face, to be ſeene and en<g ref="char:EOLhyphen"/>ioyed, of which thing wee ſpake more aboue in the third Chapter. And after this man<g ref="char:EOLhyphen"/>ner, the abode of the bleſſed is as largely patent as God him<g ref="char:EOLhyphen"/>ſelfe.
+<pb n="59" facs="tcp:13999:32"/>But by his generall pre<g ref="char:EOLhyphen"/>ſence, wherein hee is preſent to all creatures in heauen &amp; earth, and doth gouerne and conſerue them; and after a peculiar man<g ref="char:EOLhyphen"/>ner, wherein hee is alwayes pre<g ref="char:EOLhyphen"/>ſent by his grace and ſpirit to his Church, although militant in this world, not onely in the hea<g ref="char:EOLhyphen"/>uen of the bleſſed doth he exiſt, but without it, yea euery where. Peraduenture thou diſlikeſt the diſtinction: but it is produced out of the very Texts of the Scripture, and not from mans braine: for thus it ſpeaketh: <hi>God is in the Heauen of heauens, and the Heauen of heauens are in the Lord. Heauen is my Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one;</hi> that is, in the perfect miniſtra<g ref="char:EOLhyphen"/>tion, and manifeſtation of his glory. But, <hi>the Heauens of Hea<g ref="char:EOLhyphen"/>uens doe not containe thee;</hi> that is, after his generall preſence,
+<pb n="60" facs="tcp:13999:33"/>wherein hee is preſent to all his creatures; and peculiar, wherein he is preſent to his Elect. This explication alſo the ſequent ſayings of Scripture doe con<g ref="char:EOLhyphen"/>firme: <hi>God dwelleth in the high<g ref="char:EOLhyphen"/>eſt, who neuertheleſſe doth lowly behold the Heauens and the earth.</hi> And in another place; <hi>God hath eſtabliſhed his Throne in the Hea<g ref="char:EOLhyphen"/>uens, and yet his Kingdome is pre<g ref="char:EOLhyphen"/>ſent to all.</hi> Alſo, <hi>the Lord is in the Heauens of ancient heauens, whoſe excellency is ouer Iſrael, and whoſe ſtrength is in the higher clouds. Thou are fear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>full O God, from thy Sanctua<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es. The mightie God of Iſrael, hee giueth ſtrength and might to his people.</hi> But why do we longer diſpute of the nature of this eternall heauen? Why doe we proſecute the abſurd o<g ref="char:EOLhyphen"/>pinions of others concerning it? let vs rather haſten to the il<g ref="char:EOLhyphen"/>luſtrious
+<pb n="61" facs="tcp:13999:33"/>felicitie of the bleſſed in this Heauen For as <hi>I actan de Inſtitut. diuin. lib.</hi> 3. <hi>cap</hi> 37. ſaith, What doth it profit a man to be ſo made, that hee may looke with an vpright bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v towards heauen, and ſearch heauenly things, vnleſſe he diſcerne God with an vpright mind, and his meditation be conuerſant in the hope of eternall life.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="62" facs="tcp:13999:34"/>
+               <head>CHAP. VI.</head>
+               <head type="sub">Of the happy condition and eſtate of the bleſſed in the Kingdom of heauen.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Vt to whom hath e<g ref="char:EOLhyphen"/>uer ſo great dexteri<g ref="char:EOLhyphen"/>tie of wit<g ref="char:punc">▪</g> or copious perfection of tongue or Pen been imparted, that was al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, I will not ſay, to decorate in words, but to enuntiate that tranſcendent glory and felicitie of the bleſſed in the Celeſtiall Kingdome? for eaſier it is to pronounce what is not, then what is in that eternall life. There is no death, there is no mourning, there is no weari<g ref="char:EOLhyphen"/>neſſe, no infirmitie, no hunger,
+<pb n="63" facs="tcp:13999:34"/>no thirſt, no heate, no corrupti<g ref="char:EOLhyphen"/>on, no want, no tribulation, no ſorrow. Behold, wee haue de<g ref="char:EOLhyphen"/>clared what is not there: But wilt thou know what is there? <hi>That which the eye hath not ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ene, nor the care heard, nor hath entred into mans heart, what God hath prepared for thoſe that loue him.</hi> Yet the Scripture which alone chalketh the way to eternall life, ſeemes to decipher the cele<g ref="char:EOLhyphen"/>ſtiall bleſſedneſſe in two things, <hi>viz.</hi> in the priuation of euils, wherewith in this mortall ſtate wee are afflicted; and in the plenary fruition of all good things, by whoſe hand and ſteps being conducted, wee will diſ<g ref="char:EOLhyphen"/>cuſſe a few things concerning them.</p>
+               <p>Alas, what an Ocean of ma<g ref="char:EOLhyphen"/>ladies doe ouerwhelme as well the Soule, as the Body in this
+<pb n="64" facs="tcp:13999:35"/>languiſhing life? How great a fierceneſſe of rigorous dolours, doe with more then hoſtilit<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> inuade her? How great troups of fordid vices doe on euery ſide beſiege her? Who can re<g ref="char:EOLhyphen"/>ſolue vs, how great tyranny this miſerable, crazy, infirme body of ours, whereſoeuer it bee, is alwayes obnoxious vn<g ref="char:EOLhyphen"/>to? To how many, both by Sea and Land, Battels, Baniſh<g ref="char:EOLhyphen"/>ments, deſtructions, and dan<g ref="char:EOLhyphen"/>gers of deceyts is it expoſed? Laſtly, how ſleeting, and falli<g ref="char:EOLhyphen"/>ble is the miſerable life of mor<g ref="char:EOLhyphen"/>tall men? And as <hi>Seneca</hi> ſayth, <hi>Epist.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Some then begin to liue, when they ſhould giue o<g ref="char:EOLhyphen"/>uer: yea, ſome deſiſt to liue, when they ſhould begin. And in what part of the earth are wee ſecured from the ſnares of death, which is euery moment
+<pb n="65" facs="tcp:13999:35"/>to be expected? What? this our life is repleniſhed with ſo great euills, that in compari<g ref="char:EOLhyphen"/>ſon of it, death it ſelfe may bee iudged a remedy, and not a puniſhment: for therefore hath God made it ſhort, that the tribulations which could not by proſperitie bee conquered, nor taken away, might bee mitigated by the breuitie of the time.</p>
+               <p>Alas! this Life is an emula<g ref="char:EOLhyphen"/>tour of cruell Death: where<g ref="char:EOLhyphen"/>fore then wilt thou wiſh to thy ſelfe a happy Life? Is not this madneſſe? No man will haue or endure a long euill Supper: For tell mee, what wilt thou haue an euill thing?</p>
+               <p>I thinke, in all thy actions, cogitations, and deſires, thou wouldeſt haue nothing that is naught; thou wilt not haue e<g ref="char:EOLhyphen"/>uill
+<pb n="66" facs="tcp:13999:36"/>Land, euill Corne, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an euill Garment: and what madneſſe is this, that almoſt all men couet to enioy a long euill life? But why doe I call it long? If thou ſhouldeſt liue all that time from whence <hi>A<g ref="char:EOLhyphen"/>dam</hi> was ſent out of Paradiſe till this day, ſurely thou ſhoul<g ref="char:EOLhyphen"/>deſt ſee that thy life was not long: Nay, how long is the life of euery one man? adde a few yeares, lead long olde age, What then? Is not the houre earely? Let vs there<g ref="char:EOLhyphen"/>fore learne this one thing, to contemne this life; no man can well liue it, vnleſſe hee contemne it. There can to no man happen a ſecure life, who too much meditateth on the prolonging it. When there<g ref="char:EOLhyphen"/>fore, when ſhall wee bee freed from thoſe infinite moleſtati<g ref="char:EOLhyphen"/>ons
+<pb n="67" facs="tcp:13999:36"/>of this life? Truely, in this Pilgrimage of ours there is no freedome to bee expected; but when wee ſhall bee reduced by CHRIST out of this ex<g ref="char:EOLhyphen"/>ile into our naturall Countrey; Then all ſeruitude wherewith wee are oppreſſed being taken away, wee ſhall enioy De<g ref="char:EOLhyphen"/>light, Libertie, and Securitie neuer to be conſummate. But from whence is that? <hi>God him<g ref="char:EOLhyphen"/>ſelfe will wipe away euery teare from their eyes, and Death ſhall no more appeare, nor mourning, nor lamentation, becauſe going before, they are departed, Apo<g ref="char:EOLhyphen"/>calyp. Chapter</hi> 21. <hi>verſe</hi> 4. This life of men, not onely by the alteration of age, but alſo by the ruine of Soules for ſinnes committed, doeth enter by many Deathes: So Life that is truely eternall, is neyther
+<pb n="68" facs="tcp:13999:37"/>the alteration of the bodie, nor of the minde; nor is there controuerſie of cogita<g ref="char:EOLhyphen"/>tions, nor diuerſitie of opini<g ref="char:EOLhyphen"/>on, no perturbation hindering the ſtabilitie and tranquillitie of the mind.</p>
+               <p>Laſtly, it is the Kingdome of the liuing, wherein there is no night, no ſleepe, (the I<g ref="char:EOLhyphen"/>mage of death;) no meate or drinke, the ſuſtenance of hu<g ref="char:EOLhyphen"/>mane infirmitie; no ſickneſſe, no griefe, no medicine, or Suites, or Marchandiſe; no Artes, no Money, the begin<g ref="char:EOLhyphen"/>ning of euils, the cauſe of diſ<g ref="char:EOLhyphen"/>ſentions, the roote of hatred, but the Kingdome of the li<g ref="char:EOLhyphen"/>uing; not of thoſe that dye a<g ref="char:EOLhyphen"/>ny more for ſinne, but the true life of thoſe that liue in Chriſt Ieſus our Lord. Oh true Life of all, at all moments to bee
+<pb n="69" facs="tcp:13999:37"/>wiſhed: Neyther ſhall wee there expect onely a mitigati<g ref="char:EOLhyphen"/>on and deliuerance of thoſe e<g ref="char:EOLhyphen"/>uils, wherewith wee are here infeſted; but wee ſhall bee in<g ref="char:EOLhyphen"/>finitely repleniſhed with abun<g ref="char:EOLhyphen"/>dant treaſures of good things; becauſe the Sonne adorned with the three exquiſite Pro<g ref="char:EOLhyphen"/>perties: perfect Complacen<g ref="char:EOLhyphen"/>cie, abſolute Wiſedome, im<g ref="char:EOLhyphen"/>perious Dignitie, ſhall excel<g ref="char:EOLhyphen"/>lently ſhine.</p>
+               <p>And what would ſhee haue beſide? that that perfect com<g ref="char:EOLhyphen"/>placency ſhall ſpring from two Fountaines; whereof the one floweth from God, the other from the celeſtiall Congrega<g ref="char:EOLhyphen"/>tion. From God all ſolid de<g ref="char:EOLhyphen"/>light, as from the foundation and primary fountaine doeth proceed; and that chiefly from the moſt delectable viſion of
+<pb n="70" facs="tcp:13999:38"/>the diuine glory. Vnto this not a few Saints haue eleuated themſelues in this frayle and tranſitory Life: Whereupon the Apoſtle ſayeth; <hi>Wee are the deare ſonnes of God:</hi> but it is not manifeſt what wee ſhall bee: for wee know it will bee that when it is manifeſt, wee ſhall bee like vnto him: becauſe we ſee him as hee is, and who ſo hath this hope, purgeth him<g ref="char:EOLhyphen"/>ſelfe as hee is pure. More<g ref="char:EOLhyphen"/>ouer, from the full ſence of the diuine loue. Thus <hi>Dauid</hi> com<g ref="char:EOLunhyphen"/>forteth himſelfe: <hi>I ſhall ſee thy face in Righteouſneſſe; when I awake, I ſhall bee ſatisfied with thy Countenance, Pleaſure is at thy right hand for euer.</hi>
+               </p>
+               <p>Theſe Banquets are delici<g ref="char:EOLhyphen"/>ous, which the heauenly gheſts ſitting in the Kingdome of hea<g ref="char:EOLhyphen"/>uen with <hi>Abraham, Iſaac,</hi>
+                  <pb n="71" facs="tcp:13999:38"/>and <hi>Iacob,</hi> ſhall eternally en<g ref="char:EOLhyphen"/>ioy: Oh Banquets to bee de<g ref="char:EOLhyphen"/>fired! The impious men de<g ref="char:EOLhyphen"/>light themſelues in the multi<g ref="char:EOLhyphen"/>tude of their Golde, in the multitude of their Siluer, in the multitude of their poſſeſ<g ref="char:EOLhyphen"/>ſions, in the multitude of their various wealth, in the drun<g ref="char:EOLhyphen"/>kenneſſe of their ſumptuous, and luxurious Feaſts. All tend to delight: but they knowe not where they may attayne to that which is ſtable and e<g ref="char:EOLhyphen"/>nough; the one out of luxu<g ref="char:EOLhyphen"/>ry, another from. Ambition, and the confluence of Clyents; this from his louer, the other from the vaine oſtentation of Learning. Falſe and ſhort de<g ref="char:EOLhyphen"/>lights deceiue all thoſe; as Drunkennes recompenſeth the content of one howre with the heauineſſe of a long time;
+<pb n="72" facs="tcp:13999:39"/>but let thoſe reioyce in tem<g ref="char:EOLhyphen"/>porall things, which haue not knowen to affect eternal goods. But what ſhall bee thy de<g ref="char:EOLhyphen"/>lights, O thou louer of God? Thy Gold ſhall bee peace, thy Siluer peace, thy Inheritance peace, thy Life peace: Thy God ſhall bee all in all to thee; thou ſhalt cate him, that thou mayeſt not hunger; thou ſhalt drinke him, that thou mayeſt not thirſt; thou ſhalt bee illu<g ref="char:EOLhyphen"/>minated by him, that thou mayeſt not wax blinde; thou ſhalt bee ſupported by him, that thou mayeſt not faynt; hee totall abſolute, ſhall poſ<g ref="char:EOLhyphen"/>ſeſſe thee totally abſolute; thou ſhalt ſuffer no perplexities there with him, with whom thou ſhalt inherit all.</p>
+               <p>Oh how the Saints ſhall ex<g ref="char:EOLhyphen"/>ult in glory, reioyce, bee ioy<g ref="char:EOLhyphen"/>full,
+<pb n="73" facs="tcp:13999:39"/>and delight; they ſhall enioy glory, and bee deligh<g ref="char:EOLhyphen"/>ted with eternall felicitie; there they ſhall not only taſte how ſweet God is, but ſhall bee filled and ſatiated with mira<g ref="char:EOLhyphen"/>culous ſuauitie, nothing ſhall bee wanting to them, nothing ſhall hinder them; Chriſt be<g ref="char:EOLhyphen"/>ing preſent, ſhall fulfull euery deſire of theirs; they ſhall not waxe olde, languiſh, nor cor<g ref="char:EOLhyphen"/>rupt any more: Perpetuall health, happy eternitie ſhall confirme the ſufficiencie of their bleſſedneſſe; there ſhall bee no Concupiſcence in the members, the rebellion of the fleſh ſhall no more ariſe, but the whole condition of man ſhall bee immaculate and qui<g ref="char:EOLhyphen"/>et, nature ſhall continue whole and ſound without any blemiſh or wrinkle any more.</p>
+               <pb n="74" facs="tcp:13999:40"/>
+               <p>Laſtly, God ſhall bee all in all, and his preſence ſhall ſa<g ref="char:EOLhyphen"/>tiate all the appetites of ſoule and body. Conſider, conſider therefore, O mortall men, that to bee the true tranſcendent ioy, which is not conceaued of the Creature, but of the Creator; which when thou ſhalt receiue, no man ſhall take from thee, when all mirth o<g ref="char:EOLhyphen"/>therwiſe acquired, is but mour<g ref="char:EOLhyphen"/>ning; all delight, dolour; all ſweet, ſowre; all beautie, de<g ref="char:EOLhyphen"/>formitie; and euery thing that doth glad, is grieuous. Next vnto God, who is our ſupreame felicitie, and chiefeſt delight, the conuerſation and familia<g ref="char:EOLhyphen"/>ritie of Saints and Angels ad<g ref="char:EOLhyphen"/>deth no ſmall complacencie; there the aſſembly of holy An<g ref="char:EOLhyphen"/>gels, there the glorious com<g ref="char:EOLhyphen"/>pany of the Apoſtles, there
+<pb n="75" facs="tcp:13999:40"/>the number of triumphant Pro<g ref="char:EOLhyphen"/>phets, there the innumerable Congregation of faithfull Mar<g ref="char:EOLhyphen"/>tyrs: neither is there that thou ſhouldeſt feare any thing to be taken from thee by the multi<g ref="char:EOLhyphen"/>tude of the Inhabitants in the celeſtiall bleſſedneſſe. I ſay, the Inheritance is Chriſtes, by which wee are Coheyres. By the ſtore of poſſeſſours, it is not diminiſhed, neither is it made ſtraight by the abundance of Inhabitants, but it is as great to many, as to a few, ſo to each one, as to all. More<g ref="char:EOLhyphen"/>ouer, in profound knowledge and wiſedome, all the Saints ſhall here excell, as <hi>Paul</hi> teach<g ref="char:EOLhyphen"/>eth when hee ſaith, <hi>Wee know in part, we propheſie in part: but when it ſhall come which is finiſhed, then that which is in part ſhall bee aboliſhed.</hi> Here we ſee through
+<pb n="76" facs="tcp:13999:41"/>a glaſſe and obſcurely, but then wee ſhall ſee face to face, now wee know in part, then we ſhall know perfectly; there is memory without obliuion, reaſon without errour, wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> without all perturbation, a bo<g ref="char:EOLunhyphen"/>dy without corruption: and with how great dignitie and maieſtie the godly ſhall bee crowned in that future life, the ſame <hi>Paul</hi> expreſleth, when he ſayeth, <hi>If wee ſuffer together, wee ſhall raigne together.</hi> And Saint <hi>Iohn, Thou ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t made vs Kings and Priests v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o God, and wee ſhall reigne on the ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th.</hi> And of the Seruants of God liuing in heauen, amongſt other things hee ſayeth, <hi>They ſhall raigne in the world without end.</hi> O bleſ<g ref="char:EOLhyphen"/>ſed Kingdome of Paradiſe! O bleſſed Region of Delights! after which we ſigh from this
+<pb n="77" facs="tcp:13999:41"/>valley of teares. Oh, how happy are they which inha<g ref="char:EOLhyphen"/>bite there, and praiſe GOD world without end.</p>
+               <p>Now thou haſt vnderſtood the condition of the Soule, we will briefly declare what ſhall bee the Bodies ſtate: They alſo ſhall ſhine with ſo many Gemmes exquiſitely glittering; that is, with perpetuall glo<g ref="char:EOLhyphen"/>ry, remarkeable ſplendor, and dateleſſe immortalitie. Oh, oh, how great is this com<g ref="char:EOLhyphen"/>placencie, that for this dyrt and droſſe, which wee car<g ref="char:EOLhyphen"/>rie about in this body, with a glorious countenaunce wee ſhall behold GOD in the E<g ref="char:EOLhyphen"/>ternall life! The Body is here ſowen obnoxious to corrup<g ref="char:EOLhyphen"/>tion, it ſhall riſe incorrupti<g ref="char:EOLhyphen"/>ble; it is ſowen ignominious, it ſhall riſe in glory. But from
+<pb n="78" facs="tcp:13999:42"/>what Authour (ſayeſt thou) is this ſo great glory? Chriſt himſelfe ſhall transforme this deiected body, that it may bee made conformable to his glorious body.</p>
+               <p>Doeſt thou deſire Splendor heere? or requireſt thou beau<g ref="char:EOLhyphen"/>tie? Beholde, wee ſhall ſhine as the light of the Firmament, as the moſt reſplendent ſtarres: For the righteous ſhall ſhine as the Sunne in the Kingdome of Heauen: Neither ſhall here bee any enuy for the vnequall brightneſſe; becauſe the Vni<g ref="char:EOLhyphen"/>tie of Charitie ſhall raigne in all. Alſo moſt exquiſite beau<g ref="char:EOLhyphen"/>tie is deciphered vnto vs in the deſcription of that Hea<g ref="char:EOLhyphen"/>uenly Ieruſalem, <hi>Apocalypſ. Chapter</hi> 21. which appeareth by thoſe precious things, as Golde, Siluer, and Precious
+<pb n="79" facs="tcp:13999:42"/>Stones. What Citie, I pray you, is that, but that Cele<g ref="char:EOLhyphen"/>ſtiall Church, which like a Spouſe is neatly and gayly a<g ref="char:EOLhyphen"/>domed, to bee alwayes at bande in her Spouſes ſight: neither neede wee feare, that by the comming of death, this glory ſhall bee made leſſe con<g ref="char:EOLhyphen"/>tinuall.</p>
+               <p>Set Eternitie before thine eyes, which no circumſcrip<g ref="char:EOLhyphen"/>tion of times can euer mea<g ref="char:EOLhyphen"/>ſure. Conſider now, O man, conſider how wonderfull great this complacencie will bee to thee, how acceptable thy fu<g ref="char:EOLhyphen"/>ture ſecuritie will bee, be<g ref="char:EOLhyphen"/>cauſe thou ſhall neuer fall from it by any death what<g ref="char:EOLhyphen"/>ſoeuer. Neither can hee bee but ioyfull alwayes, and well pleaſed, who when hee was ſubiect to death, is made ſe<g ref="char:EOLhyphen"/>cure
+<pb n="80" facs="tcp:13999:43"/>of his Immortalitie.</p>
+               <p>Heere is no reſt, no ſecu<g ref="char:EOLhyphen"/>ritie, whiles yet burdened we groane in our ſelues, expe<g ref="char:EOLhyphen"/>cting our Adoption, the Re<g ref="char:EOLhyphen"/>demption of our bodie: But when this mortall body ſhall put on Immortalitie, then there ſhall bee no more aſſault of Diabolicall fraud, no opi<g ref="char:EOLhyphen"/>nion of hereticall wickedneſſe, nor no impietie of vnfaithfull people; but all things ſhall bee ſo pacified and ordered, that in the Tabernacles of the vpright and iuſt, the voyce of Tryumph and Health ſhall onely bee heard. There the Saints ſhall praiſe God for e<g ref="char:EOLhyphen"/>uer and euer; and in the light of his brightneſſe they ſhall tryumph: There, whatſoe<g ref="char:EOLhyphen"/>uer is to bee beloued, is pre<g ref="char:EOLhyphen"/>ſent; nor can the thing bee
+<pb n="81" facs="tcp:13999:43"/>deſired, which is not there at hand; all which ſhall be there, ſhall be good.</p>
+               <p>Wee ſhall there bee at lea<g ref="char:EOLhyphen"/>ſure, and ſee; wee ſhall ſee, and loue; wee ſhall loue, and giue laud that wee are, which ſhall bee for euer and euer. For what other end haue we, but to come to that King<g ref="char:EOLhyphen"/>dome, which hath none end. If thou loueſt Riches, why doeſt thou not put them there where they cannot periſh? If thou loueſt Honour, there it is to bee wiſhed, where no vnworthy one is honoured: If health bee affected, let it bee there deſired, where no<g ref="char:EOLhyphen"/>thing is feared: If life bee loued, there it may bee ac<g ref="char:EOLhyphen"/>quired, where it is neuer to bee ended by Death any more. Oh! wee to fooliſh, who
+<pb n="82" facs="tcp:13999:44"/>ſo much wiſh and deſire this life, which compared to the Eternall, may rather bee ter<g ref="char:EOLhyphen"/>med a death: why doe wee not rather aſpire to that eter<g ref="char:EOLhyphen"/>nall life? What tongue is ſuf<g ref="char:EOLhyphen"/>ficient to expreſſe, or vnder<g ref="char:EOLhyphen"/>ſtanding to conceiue, howe great the ſupernall Ioyes of that Citie are, to bee in the aſſemblies of holy Angels, to bee with the bleſſed Spirits of the Builder of glory, to ſee the preſent countenance of God, to behold the vncircumſcribed light, to bee diſeaſed with no griefe of death, to bee ioyed with the gift of perpetuall in<g ref="char:EOLhyphen"/>corruption.</p>
+               <p>In this mortall life, nothing is more pleaſing to vs, then to ſee our Countrey, to behold our Parents and friends. And why doe wee not haſten and
+<pb n="83" facs="tcp:13999:44"/>runne, that wee may ſee our heauenly Countrey, and ſalute our parents and friends. A great number of great ones doe ex<g ref="char:EOLhyphen"/>pect vs there; a frequent compa<g ref="char:EOLhyphen"/>ny of parents, brothers, ſonnes, doe deſire vs, now ſecure of their owne ſafetie, as yet ſoli<g ref="char:EOLhyphen"/>citous of our welfare; to come to this ſight and ſalutation, how great ioy is common to vs and them? Haſten, O haſten thi<g ref="char:EOLhyphen"/>ther, I ſay, whereſoeuerye liue: for if ye ſo loue that miſerable and brittle life where yee liue with ſo great labour, and where yee ſcarſe ſatisfie the neceſſa<g ref="char:EOLhyphen"/>ries of the body, by running, caring, perſwading, ſighing, by ſo much the more ye ought to loue that eternall life, where yee ſhall ſuſtaine no labour, where is alwayes the chiefeſt Securitie, the chiefeſt Felici<g ref="char:EOLhyphen"/>tie,
+<pb n="84" facs="tcp:13999:45"/>happy Libertie, happy Bleſ<g ref="char:EOLhyphen"/>ſedneſſe.</p>
+               <p>Oh when therefore, when ſhall wee bee deliuered out of this filthie and vnſauorie paunch? When ſhall wee bee made like vnto the Angels? When ſhall wee ſhine like the Starres? When ſhall wee ſee God face to face? When will that day come, when neglect<g ref="char:EOLhyphen"/>ing all care for to morrowe, wee being moſt happy, ſhall depend on GOD alone, the Authour and Giuer of eter<g ref="char:EOLhyphen"/>nall life? But it will bee ſome time (doubt not) when God ſhall wipe away euery teare from the eyes of all his: And then, lamentation, nor labour ſhall no more appeare, nor Death it ſelfe, which ſhall be wholly diſcomfited in the vi<g ref="char:EOLhyphen"/>ctory which God giueth vs
+<pb n="85" facs="tcp:13999:45"/>through IESVS CHRIST. And faſtening the inuincible Anchor of our Hope in this moſt delectable promiſe of God, let vs corroborate the cauſe of this Ce<g ref="char:EOLhyphen"/>leſtiall Contem<g ref="char:EOLhyphen"/>plation.</p>
+               <q>
+                  <l>Si bene quid ſeci. De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gratare datori.</l>
+                  <l>Si male quid feci, noueris eſſe meum.</l>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb facs="tcp:13999:46"/>
+            <head>
+               <hi>B G.</hi> To his Friend the <hi>Tranſlator.</hi>
+            </head>
+            <l>AN laudem ingenij cultum,</l>
+            <l>vel nobile doctae</l>
+            <l>Artis opus, tibi quod ſcire</l>
+            <l>Minerua dedit?</l>
+            <l>Nil mihi quod laudem reſtat,</l>
+            <l>chariſsime <hi>Iennings,</hi>
+            </l>
+            <l>Namque operam celebrat</l>
+            <l>mellea Suada tuam;</l>
+            <l>Macte tuâ virtute graui,</l>
+            <l>pulchrum que decorem</l>
+            <l>Ingenij, &amp; famam fac tueare tui.</l>
+            <closer>
+               <signed>Baptiſta Goodallius.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:13999:46"/>
+            <l>THy better part obſcur'd by th'radiance</l>
+            <l>Of Light celeſtiall, detected is.</l>
+            <l>Proceed, and be thou free, the Criticke glance</l>
+            <l>Of ſlothfull Ignorance there's none can miſſe.</l>
+            <l>Tranſlated is that man from Enuies ſting,</l>
+            <l>Whoſe induſtry in morning yeares doth ſpring.</l>
+            <closer>
+               <signed>IAMES FOYLE.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
